@@ -1,0 +1,43 @@
+
+body{
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+}
+
+#header-nav{
+  background-color: #b3b3b3;
+  border-radius: 0;
+  border: 1px solid;
+}
+
+.navbar-brand a{
+  text-decoration: none;
+  color: #000;
+  font-size: 1.5em;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+text-decoration: none;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid;
+}
+
+#nav-list{
+  margin-top: 0px;
+  margin-bottom: 0.5px;
+  background-color: #fff;
+}
+
+#nav-list li{
+  border: 1px solid;
+}
+
+.main-content div{
+  background-color: #b3b3b3;
+  width: 90vw;
+  margin: 5vw;
+  padding: 5vw;
+  box-sizing: border-box;
+}
