@@ -1,4 +1,4 @@
-#David Chu's China Bistro
+# David Chu's China Bistro
 
 This directory contains all Assignments and Final Website of the Coursera Course - HTML, CSS, and Javascript for Web Developers.  
 It is a fully responsive front-end restaurant website made using :  
